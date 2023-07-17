@@ -27,3 +27,5 @@ c) Body:
   "state": "ok",  
   "date":"20/03/23"  
 }  
+
+Getting param from url is also possible:  
