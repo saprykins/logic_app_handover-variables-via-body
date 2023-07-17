@@ -29,3 +29,4 @@ c) Body:
 }  
 
 Getting param from url is also possible:  
+![alt text](https://github.com/saprykins/logic_app_handover-variables-via-body/share variable via url_v2.png?raw=true)
