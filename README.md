@@ -30,3 +30,14 @@ c) Body:
 
 Getting param from url is also possible:  
 ![alt text](https://github.com/saprykins/logic_app_handover-variables-via-body/share variable via url_v2.png?raw=true)
+
+
+adding storage  
+create storage account  
+create blob -> container -> private, ex: "Log" is name of container  
+
+in logic app:  
+between request and response add action  
+action -> blob -> create blob (file) // it will create new file  
+establish connection with blob  
+Connection name:= new; much more details here https://learn.microsoft.com/en-us/azure/connectors/connectors-create-api-azureblobstorage?tabs=consumption  
