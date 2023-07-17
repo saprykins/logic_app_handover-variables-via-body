@@ -43,3 +43,6 @@ establish connection with blob
 Connection name:= new; much more details here https://learn.microsoft.com/en-us/azure/connectors/connectors-create-api-azureblobstorage?tabs=consumption  
 result: 
 you put variable in url, the variable in file, file name
+
+steps and params handover here  
+https://www.youtube.com/watch?v=M_qdupbfThA  
