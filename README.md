@@ -41,3 +41,5 @@ between request and response add action
 action -> blob -> create blob (file) // it will create new file  
 establish connection with blob  
 Connection name:= new; much more details here https://learn.microsoft.com/en-us/azure/connectors/connectors-create-api-azureblobstorage?tabs=consumption  
+result: 
+you put variable in url, the variable in file, file name
