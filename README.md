@@ -46,3 +46,6 @@ you put variable in url, the variable in file, file name
 
 steps and params handover here  
 https://www.youtube.com/watch?v=M_qdupbfThA  
+
+logic here  
+https://www.youtube.com/playlist?list=PLJK9-fn-j_0WaWL0w2bTycipgoxxaK_Mm  
